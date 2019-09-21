@@ -2,8 +2,6 @@ var btn = document.getElementById('validate');
 
 var sec_resultCheckMDP = new Boolean(0);
 
-var ID_BLOC_PASSWORD_UPPER_LOW_CAS = "#blocPasswordUpperLowCas";
-
 var ID_BLOC_PASSWORD_SPECIAL_CHARCTER = "#blocPasswordSpecialCharcter";
 
 var ID_BLOC_BLOC_PASSWORD_MORE_OR_LESS_8 = "#blocPasswordMoreOrLess8";
